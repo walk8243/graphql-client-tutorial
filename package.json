@@ -1,0 +1,21 @@
+{
+  "name": "graphql-client-tutorial",
+  "version": "1.0.0",
+  "description": "GitHubのAPI v4を使ったクライアントサイドのチュートリアル",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+github:walk8243/graphql-client-tutorial.git"
+  },
+  "keywords": [],
+  "author": "walk8243 <walk8243@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/walk8243/graphql-client-tutorial/issues"
+  },
+  "homepage": "https://github.com/walk8243/graphql-client-tutorial#readme"
+}
