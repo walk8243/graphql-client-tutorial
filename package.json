@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/walk8243/graphql-client-tutorial/issues"
   },
-  "homepage": "https://github.com/walk8243/graphql-client-tutorial#readme"
+  "homepage": "https://github.com/walk8243/graphql-client-tutorial#readme",
+  "dependencies": {
+    "config": "^3.0.1",
+    "graphql-client": "^2.0.1",
+    "js-yaml": "^3.12.1"
+  }
 }
